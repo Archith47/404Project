@@ -1,0 +1,38 @@
+
+#elip{
+    transform: rotate(80deg);
+    width: 200px;
+    height: 550px;
+     border: 2px dashed;
+    border-radius: 50%;
+    border-color:#eee;
+    position: absolute;
+    /* left: 00;
+    right: 0;
+    top: 0;
+    bottom: 0;   */
+    top:22%;
+    left:43%;
+    margin-top: -60px;
+    margin-left:-50px;
+    
+}
+#elip2{
+    transform: rotate(60deg);
+    width: 200px;
+    height: 550px;
+     border: 2px dashed;
+     border-color: #eee;
+    border-radius: 45%;
+    position: absolute;
+   
+    /* top:28%;
+    left:48%;
+    margin-top: -100px;
+    margin-left:-50px; */
+    top:18%;
+    left:48%;
+    margin-top: -60px;
+    margin-left:-50px;
+    
+}

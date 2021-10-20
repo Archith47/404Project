@@ -1,0 +1,65 @@
+#planet1 {
+    
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+background-color: black;
+    position: absolute;
+    top:27%;
+    left:-1%;
+    margin-top: 100px;
+    margin-left:500px;
+    
+}
+#planet2 {
+    
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+background-color: black;
+    position: absolute;
+    top:8%;
+    left:26%;
+    margin-top: 100px;
+    margin-left:500px;
+    
+}
+#planet3 {
+    
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+background-color: black;
+    position: absolute;
+    top:58%;
+    left:11%;
+    margin-top: 100px;
+    margin-left:500px;
+    
+}
+#planet4 {
+    
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+background-color: black;
+    position: absolute;
+    top:63%;
+    left:6%;
+    margin-top: 100px;
+    margin-left:500px;
+    
+}
+#planet5 {
+    
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+background-color:black;
+    position: absolute;
+    top:63.5%;
+    left:-8.5%;
+    margin-top: 100px;
+    margin-left:500px;
+    
+}
